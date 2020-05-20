@@ -1,10 +1,10 @@
-package com.macylion.BugTracker;
+package com.github.macylion.bugtracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BugTrackerApplicationTests {
+class BugtrackerApplicationTests {
 
 	@Test
 	void contextLoads() {

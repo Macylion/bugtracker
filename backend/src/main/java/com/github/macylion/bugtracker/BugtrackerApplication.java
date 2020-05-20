@@ -1,13 +1,13 @@
-package com.macylion.BugTracker;
+package com.github.macylion.bugtracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BugTrackerApplication {
+public class BugtrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BugTrackerApplication.class, args);
+		SpringApplication.run(BugtrackerApplication.class, args);
 	}
 
 }
